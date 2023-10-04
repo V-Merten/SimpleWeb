@@ -27,6 +27,6 @@ public class DatabaseFacade {
         return result;
         //Kek1111
 
-        //Kek1111//Kek1111//Kek1111
+        // New one
     }
 }
