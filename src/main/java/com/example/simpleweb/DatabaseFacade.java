@@ -25,5 +25,6 @@ public class DatabaseFacade {
             e.printStackTrace();
         }
         return result;
+        //Kek
     }
 }
